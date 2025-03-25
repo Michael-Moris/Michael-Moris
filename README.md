@@ -6,8 +6,8 @@ FrontEnd Developer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [michaelmorisdev@gmail.com](mailto:michaelmorisdev@gmail.com)
-* 🧠  I'm learning Backend development – APIs, performance, and databases
-* 🤝  I'm open to collaborating on Open to collaborating on exciting Angular & web projects
+* 🧠  Currently learning Backend development – APIs, performance, and databases
+* 🤝  Open to collaborating on exciting Angular & web projects
 * ⚡  Fun fact: I love drawing and swimming!
 
 <a href="https://www.github.com/Michael-Moris" target="_blank" rel="noreferrer"><img
