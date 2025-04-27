@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Michael-Moris/Michael-Moris/blob/main/fullstack.gif" alt="Developer-GIF" width="full" height="full">
+  <img src="https://github.com/Michael-Moris/Michael-Moris/blob/main/fullstack.gif" alt="Developer-GIF" width="750" height="400">
 </div>
 <div align="center">
 
@@ -9,11 +9,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FrontEnd Developer
 ------------------
 
-* 🌍  I'm based in Egypt
-* ✉️  You can contact me at [michaelmorisdev@gmail.com](mailto:michaelmorisdev@gmail.com)
-* 🧠  Currently learning Backend development – APIs, performance, and databases
-* 🤝  Open to collaborating on exciting Angular & web projects
-* ⚡  Fun fact: I love drawing and swimming!
+🌍 I'm based in Egypt  
+✉️ You can contact me at [michaelmorisdev@gmail.com](mailto:michaelmorisdev@gmail.com)  
+🧠 Currently learning Backend development – APIs, performance, and databases  
+🤝 Open to collaborating on exciting Angular & web projects  
+⚡ Fun fact: I love drawing and swimming!
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Michale-Moris)
 
