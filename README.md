@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Michael-Moris/Michael-Moris/blob/main/fullstack.gif" alt="Developer-GIF" width="750" height="400">
+ <img src="https://github.com/Michael-Moris/Michael-Moris/blob/main/fullstack.gif"
+     alt="Developer-GIF"
+     style="width: 100%; height: auto; max-width: 100%; display: block;" />
 </div>
 <div align="center">
 
