@@ -36,7 +36,7 @@ FrontEnd Developer
 
 <div align="center">
     <img 
-      src="https://github-readme-streak-stats-eight.vercel.app?user=Michael-Moris&theme=midnight-purple&card_width=450&hide_border=true"alt="GitHub Streak" />
+      src="https://github-readme-streak-stats-eight.vercel.app?user=Michael-Moris&theme=midnight-purple&card_width=700&hide_border=true"alt="GitHub Streak" />
     <img 
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Michael-Moris&theme=midnight_purple" height="195"alt="Top Languages"/>
 </div>
