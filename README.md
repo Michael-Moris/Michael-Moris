@@ -35,9 +35,12 @@ FrontEnd Developer
 ### Badges
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michael-Moris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Moris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img 
+      src="https://github-readme-streak-stats-eight.vercel.app?user=Michael-Moris&theme=midnight-purple&card_width=450&hide_border=true"alt="GitHub Streak" />
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Michael-Moris&theme=midnight_purple" height="195"alt="Top Languages"/>
 </div>
+
 
 ###
 
